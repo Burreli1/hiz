@@ -5,8 +5,7 @@ http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 http://2wb9.short.gy/iptvshqip/topchannel.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/131.ts
-#EXTINF:-1,AL: Top Channel FHD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30559
+
 #EXTINF:-1,TV KLAN MOB
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,TV KLAN SD
