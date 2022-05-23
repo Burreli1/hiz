@@ -13,7 +13,6 @@ http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 http://95.107.132.106/out/u/773_1.m3u8
 #EXTINF:-1,TV Klan U
 http://51.195.88.12:8621/live/klanhd8pp41/playlist.m3u8
-http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
 
 #EXTINF:-1,Klan HD
 http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/106.ts
@@ -101,7 +100,7 @@ http://95.107.132.105/out/u/144_1.m3u8
 #EXTINF:-1,Klan Kosova HD
 http://95.107.132.105/out/u/544_1.m3u8
 #EXTINF:-1,AL: Alsat M HD
-http://95.107.132.105/out/u/645_1.m3u8
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLgHvi-GDlbFR98g3bf3bAt/ts
 #EXTINF:-1,Dukagjini TV
 http://mvu03.wanicelife.com:8880/smart/8181trial/30479
 #EXTINF:-1,KANAL 10 HD
