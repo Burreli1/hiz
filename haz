@@ -1,374 +1,465 @@
 #EXTINF:-1   group-title="-IPTV SHQIP AnnA-",
-#EXTINF:-1,Top Channel HD
-http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
-#EXTINF:-1,AL| TOP CHANNEL SD
-http://2wb9.short.gy/iptvshqip/topchannel.m3u8
-#EXTINF:-1,AL: TOP Channel HD
-http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/131.ts
+#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
+#EXTINF:-1,AL: Top Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13605
+#EXTINF:-1,AL: Klan TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13608
+#EXTINF:-1,AL: Klan Plus FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2562
+#EXTINF:-1,AL: Vizion Plus
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13611
+#EXTINF:-1,AL: Globi TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13660
+#EXTINF:-1,AL: TV2 Gostivar
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13661
+#EXTINF:-1,AL: MRT FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/169842
+#EXTINF:-1,AL: Ulqini TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278582
+#EXTINF:-1,AL: RTK 1
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13591
+#EXTINF:-1,AL: RTK 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13592
+#EXTINF:-1,AL: RTK 3
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13593
+#EXTINF:-1,AL: RTK 4
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13594
+#EXTINF:-1,AL: KTV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13595
+#EXTINF:-1,AL: RTV 21
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13597
+#EXTINF:-1,AL: A TV FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171891
+#EXTINF:-1,AL: Klan Kosova
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13600
+#EXTINF:-1,AL: T7
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13602
+#EXTINF:-1,AL: TV Dukagjini FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/6708
+#EXTINF:-1,AL: Shenja TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12414
+#EXTINF:-1,AL: Kanal 10 Kosova
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13604
 
-#EXTINF:-1,TV KLAN MOB
-http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
-#EXTINF:-1,TV KLAN SD
-http://95.107.132.106/out/u/773_1.m3u8
-#EXTINF:-1,TV Klan U
-http://51.195.88.12:8621/live/klanhd8pp41/playlist.m3u8
+#EXTINF:-1,AL: ABC
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13607
 
-#EXTINF:-1,Klan HD
-http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/106.ts
-#EXTINF:-1,TV KLAN Plus MOB
-http://79.106.48.2:3131/live/klanplusmob/playlist.m3u8
-
-
-#EXTINF:-1,VIZION PLUS HD
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-
-
+#EXTINF:-1,AL: RTV Ora
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13613
 #EXTINF:-1,AL: RTSH 1 HD
-http://95.107.132.105/out/u/641_5.m3u8
-#EXTINF:-1,RTSH2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30544
-#EXTINF:-1,RTSH3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30536
-#EXTINF:-1,RTSH Plus
-http://mvu03.wanicelife.com:8880/smart/8181trial/30530
-#EXTINF:-1,StarPlus Shkoder 
-http://mvu03.wanicelife.com:8880/smart/8181trial/30507
-#EXTINF:-1,KoplikuTV  SD
-http://95.107.132.105/out/u/151_1.m3u8
-#EXTINF:-1,BesaTV  SD
-http://95.107.132.105/out/u/202_1.m3u8
-#EXTINF:-1,Shijak TV
-http://edge01eu.ekranet.com/shijaktv/index.m3u8
-#EXTINF:-1,TV Johaniter
-https://monamour.agency/johaniter007web/index.m3u8
-#EXTINF:-1,Fax News HD
-http://95.107.132.105/out/u/229_3.m3u8
-#EXTINF:-1,AL: TV Ora HD
-http://live1.mediadesk.al/oratv.m3u8
-#EXTINF:-1,AL: MCNTV
-http://79.106.48.2:3131/live/mcnpp1/playlist.m3u8
-http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
-#EXTINF:-1,AL: MCNTV HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30391
-#EXTINF:-1,TV Syri MOB
-http://79.106.48.2:3131/live/syritvmob/playlist.m3u8
-#EXTINF:-1,TV Syri HD
-http://95.107.132.106/out/u/363_2.m3u8
-#EXTINF:-1,AL: Ora News HD
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1,News 24 HD
-http://95.107.132.105/out/u/661_2.m3u8
-#EXTINF:-1,A2 CNN HD
-http://79.106.48.2:3131/live/a2mobott/playlist.m3u8
-#EXTINF:-1,Euronews Albania HD
-http://95.107.132.106/out/u/818_1.m3u8
-#EXTINF:-1,Abc News HD
-http://95.107.132.105/out/u/650_1.m3u8
-#EXTINF:-1,Klan News HD
-http://95.107.132.106/out/u/826_2.m3u8
-#EXTINF:-1,RTV 21 NewsBIZ HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30392
-#EXTINF:-1,NTV
-http://95.107.132.106/out/u/832_1.m3u8
-
-#EXTINF:-1,RTK 1 SD
-http://95.107.132.105/out/u/327_1.m3u8
-#EXTINF:-1,AL: RTK 3 HD
-http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w382095650.m3u8
-#EXTINF:-1,AL: RTK 4 HD
-http://srv1.iptviliria.com/RTK4/index.m3u8
-#EXTINF:-1,KTV HD
-http://95.107.132.105/out/u/38_3.m3u8
-#EXTINF:-1,T7 Kosova HD
-http://79.106.48.2:3131/live/t7mobott/playlist.m3u8
-#EXTINF:-1,T7 Kosova HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30502
-#EXTINF:-1,RTV 21 HD
-http://95.107.132.105/out/u/488_1.m3u8
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13614
+#EXTINF:-1,AL: RTSH 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13615
+#EXTINF:-1,AL: RTSH 3
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13616
+#EXTINF:-1,AL: RTSH Plus
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13617
+#EXTINF:-1,AL: RTSH 24
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13618
+#EXTINF:-1,AL: RTSH Shqip
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13619
+#EXTINF:-1,AL: RTSH Film
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13620
+#EXTINF:-1,AL: RTSH Agro
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13621
+#EXTINF:-1,AL: RTSH Shkolle
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13622
+#EXTINF:-1,AL: RTSH Kukesi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13623
+#EXTINF:-1,AL: RTSH Shkodra
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13624
+#EXTINF:-1,AL: MRT 2
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13627
+#EXTINF:-1,AL: Alsat M
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13628
 #EXTINF:-1, RTV 21 MIX HD
 http://95.107.132.105/out/u/135_1.m3u8
 #EXTINF:-1, RTV 21 Makedonia SD
 http://95.107.132.105/out/u/159_1.m3u8
 #EXTINF:-1,TV KLAN Makedonia MOB
 http://79.106.48.2:3131/live/klanmacedoniamob/playlist.m3u8
-#EXTINF:-1,ATV
-http://mvu03.wanicelife.com:8880/smart/8181trial/30511
-
-#EXTINF:-1,TV  Shenja HD
-http://95.107.132.105/out/u/144_1.m3u8
-#EXTINF:-1,Klan Kosova HD
-http://95.107.132.105/out/u/544_1.m3u8
-#EXTINF:-1,AL: Alsat M HD
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLgHvi-GDlbFR98g3bf3bAt/ts
-#EXTINF:-1,Dukagjini TV
-http://mvu03.wanicelife.com:8880/smart/8181trial/30479
-#EXTINF:-1,KANAL 10 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30612
-
-
-#EXTINF:-1,T HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30520
-#EXTINF:-1,Family HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30463
-#EXTINF:-1,Max HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30540
-#EXTINF:-1,Gold HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30587
-#EXTINF:-1,Film Hits HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30492
-#EXTINF:-1,Film Aksion HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30486
-#EXTINF:-1,Film Thriller
-http://mvu03.wanicelife.com:8880/smart/8181trial/30489
-#EXTINF:-1,Film Komedi
-http://mvu03.wanicelife.com:8880/smart/8181trial/30458
-#EXTINF:-1,Film Drame
-http://mvu03.wanicelife.com:8880/smart/8181trial/30539
-#EXTINF:-1,Film Autor
-http://mvu03.wanicelife.com:8880/smart/8181trial/30491
-#EXTINF:-1,Film Stinet
-http://mvu03.wanicelife.com:8880/smart/8181trial/30455
-#EXTINF:-1,Euro Film
-http://mvu03.wanicelife.com:8880/smart/8181trial/30537
-#EXTINF:-1,FOX HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30447
-
-
-#EXTINF:-1,Tring International FHD
-http://95.107.132.105/out/u/606_1.m3u8
-#EXTINF:-1,Jolly FHD
-http://95.107.132.106/out/u/892_2.m3u8
-#EXTINF:-1,AL: Tring Family HD
-http://95.107.132.105/out/u/673_3.m3u8
-#EXTINF:-1,AL: Tring Family FHD
-http://95.107.132.105/out/u/672_2.m3u8
-#EXTINF:-1,AL: Tring Collection HD
-http://95.107.132.106/out/u/847_3.m3u8
-#EXTINF:-1,AL: Tring Classic HD
-http://95.107.132.106/out/u/842_4.m3u8
-#EXTINF:-1,AL: Tring Super FHD
-http://95.107.132.106/out/u/890_1.m3u8
-#EXTINF:-1,AL: Tring Fantasy HD
-http://95.107.132.105/out/u/611_1.m3u8
-#EXTINF:-1,AL: Tring Comedy HD
-http://95.107.132.106/out/u/884_1.m3u8
-#EXTINF:-1,AL: Tring Shqip SD
-http://95.107.132.105/out/u/682_1.m3u8
-#EXTINF:-1,AL: Tring Internacional
-http://95.107.132.105/out/u/606_1.m3u8
-#EXTINF:-1,AL: Tring 3 Plus HD
-http://95.107.132.105/out/u/722_1.m3u8
-#EXTINF:-1,AL: Tring Novelas HD
-http://95.107.132.106/out/u/858_5.m3u8
-#EXTINF:-1,Tring 3 Plus FHD
-http://95.107.132.105/out/u/31_3.m3u8
-#EXTINF:-1,AL: Tring D Drama HD
-http://95.107.132.105/out/u/549_1.m3u8
-#EXTINF:-1,AL: Tring Euro Channel
-http://95.107.132.106/out/u/356_1.m3u8
+#EXTINF:-1,AL: TV Tema
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13631
+#EXTINF:-1,AL: TV Liria Ferizaj
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13632
+#EXTINF:-1,AL: TV Mitrovica
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13634
+#EXTINF:-1,AL: Syri TV Kosova
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13635
+#EXTINF:-1,AL: TV BESA
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13636
+#EXTINF:-1,AL: RTV Aldi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13638
+#EXTINF:-1,AL: First Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13640
+#EXTINF:-1,AL: RTV Arberia 1
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13643
+#EXTINF:-1,AL: RTV Arberia 2
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13644
+#EXTINF:-1,AL: RTV Arberia 3 Femije
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13645
+#EXTINF:-1,AL: RTV Arberia 4 Muzike
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13646
+#EXTINF:-1,AL: TV Uskana
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13647
+#EXTINF:-1,AL: Star Plus Shkoder
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13648
+#EXTINF:-1,AL: TV Opoja
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13649
+#EXTINF:-1,AL: RTV Bujanoc
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13651
+#EXTINF:-1,AL: Alpo TV Gjirokaster
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13653
+#EXTINF:-1,AL: TV Rozafa Shkoder
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13654
+#EXTINF:-1,AL: TV Kopliku
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13655
+#EXTINF:-1,AL: Istogu Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13656
+#EXTINF:-1,AL: TV Koha
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13657
+#EXTINF:-1,AL: Boin TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13658
+#EXTINF:-1,AL: TV Llapi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13659
+#EXTINF:-1,AL: TV Lezha
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13663
+#EXTINF:-1,AL: TV Era
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13664
+#EXTINF:-1,AL: Neser TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13666
 
 
+#EXTINF:-1,AL: Syri TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13669
+#EXTINF:-1,AL: Klan News
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13670
+#EXTINF:-1,AL: Top News
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13671
+#EXTINF:-1,AL: Arta News
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13672
+#EXTINF:-1,AL: Euronews Albania
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13673
+#EXTINF:-1,AL: A2 CNN
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13674
+#EXTINF:-1,AL: Kanali 7
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13675
+#EXTINF:-1,AL: Ora News
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13676
+#EXTINF:-1,AL: News 24
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13677
+#EXTINF:-1,AL: Report TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13678
+#EXTINF:-1,AL: Fax News
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13679
 
-#EXTINF:-1,Tring History HD
-http://95.107.132.105/out/u/600_3.m3u8
-#EXTINF:-1,Tring Planet FHD
-http://95.107.132.105/out/u/592_2.m3u8
-#EXTINF:-1,Tring World FHD
-http://95.107.132.105/out/u/591_3.m3u8
+#EXTINF:-1,AL: ART Prime
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13683
+#EXTINF:-1,AL: ART Episode
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13684
+#EXTINF:-1,AL: Jolly HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13685
+#EXTINF:-1,AL: Tring 3 Plus
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13686
+#EXTINF:-1,AL: Stinet
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13687
+#EXTINF:-1,AL: Kanal D Drama
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13688
+#EXTINF:-1,AL: Tring Novelas
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13689
+#EXTINF:-1,AL: Tring Muse
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13690
+#EXTINF:-1,AL: Tring Smile
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13691
+#EXTINF:-1,AL: Living
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13692
+#EXTINF:-1,AL: Novela
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13693
+#EXTINF:-1,AL: FOX
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13694
+#EXTINF:-1,AL: FOX Life
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13695
+#EXTINF:-1,AL: FOX Movies
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13696
+#EXTINF:-1,AL: 24 Kitchen
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13697
 
-#EXTINF:-1,Explorer Shkence
-http://mvu03.wanicelife.com:8880/smart/8181trial/30623
-#EXTINF:-1,Explorer Natyra
-http://mvu03.wanicelife.com:8880/smart/8181trial/30581
-#EXTINF:-1,Explorer Histori
-http://mvu03.wanicelife.com:8880/smart/8181trial/30580
+#EXTINF:-1,AL: Bang Bang
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13699
+#EXTINF:-1,AL: Cufo
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13700
+#EXTINF:-1,AL: Junior TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13701
+#EXTINF:-1,AL: Tring Tring
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13702
+#EXTINF:-1,AL: Tring Kids
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13703
+#EXTINF:-1,AL: Tip TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13704
+#EXTINF:-1,AL: Prince Kids
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13705
+#EXTINF:-1,AL: RTSH Femije
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13706
+#EXTINF:-1,AL: Sole TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13707
+#EXTINF:-1,AL: Sofia HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13708
+#EXTINF:-1,AL: Cartoon Network
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13709
+#EXTINF:-1,AL: Boomerang
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13710
+#EXTINF:-1,AL: Disney Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13711
+#EXTINF:-1,AL: Disney Junior
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13712
+#EXTINF:-1,AL: Nickelodeon
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13713
+#EXTINF:-1,AL: Nicktoons
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13714
+#EXTINF:-1,AL: Nick Junior
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13715
+#EXTINF:-1,AL: Tom & Jerry
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13716
+#EXTINF:-1,AL: First Kids
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13717
+#EXTINF:-1,AL: DisneyS
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13718
+
+#EXTINF:-1,AL: T HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13720
+#EXTINF:-1,AL: Family HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13721
+#EXTINF:-1,AL: Film Gold HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13722
+#EXTINF:-1,AL: Film Max HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13723
+#EXTINF:-1,AL: Film Hits
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13724
+#EXTINF:-1,AL: Film Aksion
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13725
+#EXTINF:-1,AL: Film Komedi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13726
+#EXTINF:-1,AL: Film Drame
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13727
+#EXTINF:-1,AL: Film Autor
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13728
+#EXTINF:-1,AL: Euro Film
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13729
+#EXTINF:-1,AL: Film Thriller
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13730
+#EXTINF:-1,AL: Tring Super
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13731
+#EXTINF:-1,AL: Tring Action
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13732
+#EXTINF:-1,AL: Tring Family
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13733
+#EXTINF:-1,AL: Tring Comedy
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13734
+#EXTINF:-1,AL: Tring Classic
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13735
+#EXTINF:-1,AL: Tring Life
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13736
+#EXTINF:-1,AL: Tring Fantasy
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13737
+#EXTINF:-1,AL: Tring Shqip
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13738
+#EXTINF:-1,AL: Tring International
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13739
+#EXTINF:-1,AL: ART Kino 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13740
+#EXTINF:-1,AL: ART Kino 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13741
+#EXTINF:-1,AL: ART Kino 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13742
+#EXTINF:-1,AL: Sky 7HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13743
+#EXTINF:-1,AL: Sky Star HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13744
+#EXTINF:-1,AL: Sky Max
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13745
+#EXTINF:-1,AL: Sky Aksion
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13746
+#EXTINF:-1,AL: Sky Komedi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13747
+#EXTINF:-1,AL: Sky Drame
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13748
+#EXTINF:-1,AL: X Gold 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13749
+#EXTINF:-1,AL: X Gold 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13750
+#EXTINF:-1,AL: X Gold 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13751
+#EXTINF:-1,AL: X Gold 4 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13752
+#EXTINF:-1,AL: X Premiere 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13753
+#EXTINF:-1,AL: X Premiere 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13754
+#EXTINF:-1,AL: X Premiere 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13755
+#EXTINF:-1,AL: X Family HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13756
+#EXTINF:-1,AL: X Comedy HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13757
+#EXTINF:-1,AL: X Action HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13758
+#EXTINF:-1,AL: X Drama HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13759
+#EXTINF:-1,AL: X Western HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13760
+#EXTINF:-1,AL: X Humor HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13761
+#EXTINF:-1,AL: 8OVA Action HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13762
+#EXTINF:-1,AL: 8OVA Komedi HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13763
+#EXTINF:-1,AL: 8OVA Drame HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13764
+#EXTINF:-1,AL: 8OVA Thriller HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13765
+#EXTINF:-1,AL: TeleOne Cinema 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13766
+#EXTINF:-1,AL: TeleOne Cinema 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13767
+#EXTINF:-1,AL: TeleOne Cinema 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13768
+#EXTINF:-1,AL: TeleOne Cinema 4 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13769
+#EXTINF:-1,AL: TeleOne Aventure
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13770
+#EXTINF:-1,AL: TeleOne Action
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13771
+#EXTINF:-1,AL: TeleOne Gold Collection
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13772
+#EXTINF:-1,AL: Dark Gold 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/166537
+#EXTINF:-1,AL: Dark Gold 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2553
+#EXTINF:-1,AL: Dark Gold 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2554
+#EXTINF:-1,AL: Dark Gold 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16460
+#EXTINF:-1,AL: Dark Gold 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/266392
+#EXTINF:-1,AL: Dark Gold 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/266393
+#EXTINF:-1,AL: Dark Gold 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/266394
+#EXTINF:-1,AL: Dark Gold 8 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/266395
+#EXTINF:-1,AL: Dark Popullore HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/166533
+#EXTINF:-1,AL: Dark Romance FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/157409
+#EXTINF:-1,AL: Dark Stupcat HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/166520
+#EXTINF:-1,AL: Explorer Shkence
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13774
+#EXTINF:-1,AL: Explorer Natyra
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13775
+#EXTINF:-1,AL: Explorer Histori
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13776
+#EXTINF:-1,AL: Tring World
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13777
+#EXTINF:-1,AL: Tring Planet
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13778
+#EXTINF:-1,AL: Tring History
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13779
+#EXTINF:-1,AL: ART Doku 1
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13780
+#EXTINF:-1,AL: ART Doku 2
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13781
+#EXTINF:-1,AL: Discovery Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13783
+#EXTINF:-1,AL: Discovery Science
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13784
+#EXTINF:-1,AL: Discovery Turbo Xtra
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13785
+#EXTINF:-1,AL: History Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13786
+#EXTINF:-1,AL: National Geographic
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13787
+#EXTINF:-1,AL: Food Network
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13788
+#EXTINF:-1,AL: HGTV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13789
+#EXTINF:-1,AL: Animal Planet
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13790
 
 
+#EXTINF:-1,AL: My Music
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13799
+#EXTINF:-1,AL: Melody TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13800
+#EXTINF:-1,AL: Klan Music
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13801
 
-#EXTINF:-1,Bang Bang
-http://mvu03.wanicelife.com:8880/smart/8181trial/30496
-#EXTINF:-1,Cufo TV
-http://mvu03.wanicelife.com:8880/smart/8181trial/30579
-#EXTINF:-1,AL: JUNIOR HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30590
-#EXTINF:-1,Tring Tring HD
-http://95.107.132.106/out/u/898_1.m3u8
-#EXTINF:-1,Tip TV FHD
-http://95.107.132.105/out/u/587_2.m3u8
-#EXTINF:-1,Tring Kids SD
-http://95.107.132.106/out/u/339_1.m3u8
-#EXTINF:-1,RTV 21 Junior
-http://95.107.132.106/out/u/330_2.m3u8
-#EXTINF:-1,RTSH Femije
-http://mvu03.wanicelife.com:8880/smart/8181trial/30360
-#EXTINF:-1,TV Sole
-http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
+#EXTINF:-1,AL: RTSH Muzike
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13807
+#EXTINF:-1,AL: BBF Music TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13808
+#EXTINF:-1,AL: Folk+
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13809
+#EXTINF:-1,AL: Elrodi
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13810
+#EXTINF:-1,AL: STV Folk
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13811
+#EXTINF:-1,AL: SuperSonic TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13812
+#EXTINF:-1,AL: 21 Popullore
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13813
+#EXTINF:-1,AL: 21 Plus
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13814
+#EXTINF:-1,Turbo Channel
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13815
 
+#EXTINF:-1,Peace TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13817
+#EXTINF:-1,AL: RTV Pendimi HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13818
+#EXTINF:-1,AL: RTV Islam
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13819
 
-
-
-
-#EXTINF:-1,AL: Folk +
-http://95.107.132.106/out/u/44_1.m3u8
-#EXTINF:-1,Blue Sky
-http://185.204.32.49:6735/BlueSky/srteam/playlist.m3u8
-#EXTINF:-1,Tv1 Channel
-http://185.204.32.49:6735/Tv1Channel/stream/playlist.m3u8
-#EXTINF:-1,21 Popullore HD
-http://84.22.33.254/unicast.21popullorehd/video.m3u8?token=1
-#EXTINF:-1,21 Plus HD
-http://84.22.33.254/unicast.21plushd/video.m3u8?token=1
-
-
-#EXTINF:-1,AL: Super Sport 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30630
-#EXTINF:-1,AL: Super Sport 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30631
-#EXTINF:-1,AL: Super Sport 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30632
-#EXTINF:-1,AL: Super Sport 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30633
-#EXTINF:-1,AL: Super Sport 5 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30556
-#EXTINF:-1,AL: Over Sport 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30375
-#EXTINF:-1,AL: Over Sport 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30355
-#EXTINF:-1,AL: Over Sport 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30352
-#EXTINF:-1,AL: Over Sport 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30350
-#EXTINF:-1,AL: Kujtesa Sport 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30434
-#EXTINF:-1,AL: Kujtesa Sport 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30433
-#EXTINF:-1,AL: Kujtesa Sport 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30406
-#EXTINF:-1,AL: Kujtesa Sport 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/30431
-#EXTINF:-1,AL: RTSH Sports HD
-http://95.107.132.105/out/u/638_1.m3u8
-#EXTINF:-1,Tring Sport News
-http://95.107.132.106/out/u/811_1.m3u8
-#EXTINF:-1,Tring Sport 1 HD
-http://95.107.132.106/out/u/684_6.m3u8
-#EXTINF:-1,Tring Sport 2 HD
-http://95.107.132.106/out/u/691_3.m3u8
-#EXTINF:-1,Tring Sport 3 HD
-http://95.107.132.106/out/u/699_1.m3u8
-#EXTINF:-1,RTSH Sport HD
-http://95.107.132.105/out/u/635_1.m3u8
-#EXTINF:-1,BT Sports 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2943
-#EXTINF:-1,BT Sports 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2942
-#EXTINF:-1,BT Sports 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2941
-#EXTINF:-1,Sky Sports F1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2876
-#EXTINF:-1,Sky Sports F1 FHD
-http://mvu03.wanicelife.com:8880/smart/8181trial/29048
-
-#EXTINF:-1,Bein Sports 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2140
-#EXTINF:-1,Bein Sports 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2139
-#EXTINF:-1,Bein Sports 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2138
-#EXTINF:-1,Bein Sports 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2137
-#EXTINF:-1,Bein Sports 5 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2136
-#EXTINF:-1,Bein Sports 6 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2135
-#EXTINF:-1,Bein Sports P1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2120
-#EXTINF:-1,Bein Sports P2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2119
-#EXTINF:-1,Bein Sports P3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2117
-
-
-#EXTINF:-1,Rai 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2715
-#EXTINF:-1,Rai 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2714
-#EXTINF:-1,Rai 3 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2713
-#EXTINF:-1,Rai 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2712
-#EXTINF:-1,Canale 5 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2769
-#EXTINF:-1,LA 5 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/28357
-#EXTINF:-1,Italia 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2748
-#EXTINF:-1,Rete 4 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2709
-#EXTINF:-1,RSI LA 1 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2709
-#EXTINF:-1,RSI LA 2 HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2707
-#EXTINF:-1,Iris HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2744
-#EXTINF:-1,Sky Cinema Action HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/28274
-#EXTINF:-1,Sky Cinema Suspence HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2726
-#EXTINF:-1,Sky Cinema Family HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2702
-#EXTINF:-1,Sky Atlantic HD
-http://mvu03.wanicelife.com:8880/smart/8181trial/2687
-#EXTINF:-1,Italia 1 SD
-http://95.107.132.105/out/u/51_1.m3u8
-#EXTINF:-1,Canale 5 SD
-http://95.107.132.105/out/u/422_1.m3u8
-#EXTINF:-1,Mediaset Italia SD
-http://95.107.132.105/out/u/75_1.m3u8
-
-
-
-#EXTINF:-1,KINEMA BIG 1 HD
-https://2wb9.short.gy/iptvshqip/bb1.mp4
-#EXTINF:-1,KINEMA BIG 2 HD
-https://2wb9.short.gy/iptvshqip/bb2.mp4
-#EXTINF:-1,UNIX KINEMA 1 HD
-http://2wb9.short.gy/x3m/kinema1.mp4
-#EXTINF:-1,UNIX KINEMA 2 HD
-http://2wb9.short.gy/x3m/kinema2.mp4
-#EXTINF:-1,UNIX KINEMA 3 HD
-http://2wb9.short.gy/x3m/kinema3.mp4
-#EXTINF:-1,UNIX KINEMA 4 HD
-http://2wb9.short.gy/x3m/kinema4.mp4
-#EXTINF:-1,UNIX KINEMA 5 HD
-http://2wb9.short.gy/x3m/kinema5.mp4
-#EXTINF:-1,UNIX KINEMA 6 HD
-http://2wb9.short.gy/x3m/kinema6.mp4
-#EXTINF:-1,UNIX KINEMA 7 HD
-http://2wb9.short.gy/x3m/kinema7.mp4
-#EXTINF:-1,UNIX KINEMA 8 HD
-http://2wb9.short.gy/x3m/kinema8.mp4
-#EXTINF:-1,UNIX KINEMA 9 HD
-http://2wb9.short.gy/x3m/kinema9.mp4
-#EXTINF:-1,UNIX KINEMA 10 HD
-http://2wb9.short.gy/x3m/kinema10.mp4
-#EXTINF:-1,UNIX KINEMA 11 HD
-http://2wb9.short.gy/x3m/kinema11.mp4
-#EXTINF:-1,UNIX KINEMA 12 HD
-http://2wb9.short.gy/x3m/kinema12.mp4
-#EXTINF:-1,UNIX KINEMA 13 HD
-http://2wb9.short.gy/x3m/kinema13.mp4
-#EXTINF:-1,UNIX KINEMA 14 HD
-http://2wb9.short.gy/x3m/kinema14.mp4
-#EXTINF:-1,UNIX KINEMA 15 HD
-http://2wb9.short.gy/x3m/kinema15.mp4
-#EXTINF:-1,KINEMA KLUB 1 HD
-http://2wb9.short.gy/x3m/klub1.mp4
-#EXTINF:-1,KINEMA KLUB 2 HD
-http://2wb9.short.gy/x3m/klub2.mp4
-#EXTINF:-1,KINEMA KLUB 3 HD
-http://2wb9.short.gy/x3m/klub3.mp4
-#EXTINF:-1,KINEMA KLUB 4 HD
-http://2wb9.short.gy/x3m/klub4.mp4
-#EXTINF:-1,KINEMA KLUB 5 HD
-http://2wb9.short.gy/x3m/klub5.mp4
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13821
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13822
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13823
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13824
+#EXTINF:-1,AL: Kujtesa Sport 5
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13825
+#EXTINF:-1,AL: ART Sport 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13826
+#EXTINF:-1,AL: ART Sport 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13827
+#EXTINF:-1,AL: ART Sport 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13828
+#EXTINF:-1,AL: SuperSport 1
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13829
+#EXTINF:-1,AL: SuperSport 2
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13830
+#EXTINF:-1,AL: SuperSport 3
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13831
+#EXTINF:-1,AL: SuperSport 4
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13832
+#EXTINF:-1,AL: SuperSport 5
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13833
+#EXTINF:-1,AL: SuperSport 6
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13834
+#EXTINF:-1,AL: ART Sport 4 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13835
+#EXTINF:-1,AL: Tring Sport News HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13836
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13837
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13838
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13839
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13840
+#EXTINF:-1,AL: RTSH Sport
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13841
